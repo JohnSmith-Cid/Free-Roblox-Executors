@@ -17,7 +17,7 @@ Welcome to the **Universal Free-Executors Index**. This repository serves as a d
 ---
 
 ## 🏷️ Technical Metadata
-`Free Scripting Tools` | `Executor Directory` | `Open Source Execution` | `RBX Optimization` | `2026 Community Scripts` | `Free roblox executor` | `Roblox executors`
+`Free Scripting Tools` | `Executor Directory` | `Open Source Execution` | `RBX Optimization` | `2026 Community Scripts` | `Free roblox executor` | `Roblox executors` | `Solara Executor` | `Seliware Executor` | `Velocity Executor` | `Delta Executor`
 
 ---
 *Disclaimer: This index is for educational and research purposes only. We encourage users to respect the terms of service of the platforms they interact with.*
